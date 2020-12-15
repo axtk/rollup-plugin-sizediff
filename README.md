@@ -28,6 +28,8 @@ Output:
 created ./build/index.js in 497ms  |
 ```
 
+The diff part in the parentheses will become available from the second run on, when the plugin picks its own record of the previous bundle size.
+
 ## Options
 
 ```js
