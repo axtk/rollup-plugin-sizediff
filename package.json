@@ -1,0 +1,14 @@
+{
+  "name": "rollup-plugin-sizediff",
+  "version": "1.0.0",
+  "description": "Displays the rollup bundle size diff",
+  "main": "index.js",
+  "keywords": [
+    "filesize",
+    "diff",
+    "rollup",
+    "plugin"
+  ],
+  "author": "axtk",
+  "license": "ISC"
+}
